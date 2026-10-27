@@ -1,0 +1,702 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Biografia que apresenta e orienta",
+    "o_que_e": "Explique quem você atende, o que entrega e qual é o próximo passo.",
+    "por_que_funciona": "Quem chega ao perfil precisa reconhecer rapidamente se a solução serve para sua necessidade. Clareza reduz o esforço para iniciar uma conversa.",
+    "como_aplicar": [
+      "Liste seu serviço principal e o público",
+      "Acrescente cidade ou modalidade de atendimento",
+      "Finalize com um convite específico e confira o destino do link"
+    ],
+    "exemplo": "Uma nail designer pode escrever: “Unhas em gel em Campinas. Atendimento com hora marcada. Consulte horários no link.”",
+    "dica": "Troque adjetivos como “excelência” por informações úteis para a decisão.",
+    "tarefa": "Reescreva sua bio e peça a alguém que explique o que você vende após lê-la."
+  },
+  {
+    "numero": 2,
+    "titulo": "Destaques que respondem dúvidas",
+    "o_que_e": "Organize stories úteis em conjuntos que ajudem o visitante a conhecer e contratar o negócio.",
+    "por_que_funciona": "Informações reunidas diminuem a procura por respostas espalhadas e tornam o perfil mais fácil de consultar.",
+    "como_aplicar": [
+      "Separe dúvidas recebidas em categorias",
+      "Crie destaques de serviços, pedidos, avaliações e localização",
+      "Use nomes curtos e revise informações antigas"
+    ],
+    "exemplo": "Uma confeitaria reúne “Cardápio”, “Encomendar” e “Entrega”, com prazos e bairros atendidos.",
+    "dica": "A primeira tela de cada destaque deve explicar o assunto sem depender do áudio.",
+    "tarefa": "Monte um destaque com três respostas sobre como comprar."
+  },
+  {
+    "numero": 3,
+    "titulo": "Publicações fixadas de apresentação",
+    "o_que_e": "Dê destaque a conteúdos que expliquem o negócio, a oferta e o processo de atendimento.",
+    "por_que_funciona": "O visitante consegue se orientar antes de percorrer publicações recentes que talvez não expliquem sua proposta.",
+    "como_aplicar": [
+      "Escolha um post de apresentação",
+      "Prepare um guia do serviço principal",
+      "Destaque um conteúdo sobre como contratar, se o recurso estiver disponível"
+    ],
+    "exemplo": "Um estúdio de pilates apresenta a equipe, explica a aula inicial e mostra como consultar turmas.",
+    "dica": "Confira periodicamente se os posts destacados continuam atuais.",
+    "tarefa": "Escolha os conteúdos que uma pessoa deveria ver na primeira visita."
+  },
+  {
+    "numero": 4,
+    "titulo": "Palavras que seu cliente usa",
+    "o_que_e": "Inclua termos claros do segmento e da região nos campos e textos relevantes do perfil.",
+    "por_que_funciona": "A linguagem do comprador facilita a compreensão e pode ajudar a descoberta em buscas, sem garantir posição ou alcance.",
+    "como_aplicar": [
+      "Anote expressões usadas nas perguntas dos clientes",
+      "Inclua a atividade no nome de exibição quando fizer sentido",
+      "Distribua termos naturalmente na bio e nas legendas"
+    ],
+    "exemplo": "“Marina · Bolos em Recife” comunica mais sobre a oferta do que um nome cheio de símbolos.",
+    "dica": "Evite acumular cidades onde você não atende e palavras sem relação com o serviço.",
+    "tarefa": "Liste cinco termos de busca plausíveis e aplique dois com naturalidade."
+  },
+  {
+    "numero": 5,
+    "titulo": "Caminho curto até a compra",
+    "o_que_e": "Reduza as etapas entre o interesse e a ação que o cliente precisa realizar.",
+    "por_que_funciona": "Links confusos e destinos desatualizados podem interromper uma intenção de contato já existente.",
+    "como_aplicar": [
+      "Escolha um destino principal",
+      "Nomeie o link pelo resultado, como “Consultar agenda”",
+      "Teste o percurso no celular e corrija telas ou mensagens confusas"
+    ],
+    "exemplo": "Uma barbearia leva o visitante diretamente à página de agendamento, com endereço e serviços visíveis.",
+    "dica": "Se usar uma página com vários links, deixe a ação principal no topo.",
+    "tarefa": "Faça o percurso como se fosse um novo cliente e registre cada dificuldade."
+  },
+  {
+    "numero": 6,
+    "titulo": "Conteúdo que resolve dúvidas",
+    "o_que_e": "Transforme perguntas recorrentes em explicações úteis antes da venda.",
+    "por_que_funciona": "Responder à necessidade concreta mostra que o negócio entende o problema e ajuda o público a avaliar alternativas.",
+    "como_aplicar": [
+      "Reúna cinco perguntas do atendimento",
+      "Escolha uma pergunta por publicação",
+      "Responda com um critério prático e indique quando procurar atendimento"
+    ],
+    "exemplo": "Uma assistência de celulares explica quais informações levar para solicitar uma avaliação, sem diagnosticar à distância.",
+    "dica": "Use as palavras da pergunta original no título, preservando a identidade do cliente.",
+    "tarefa": "Escreva uma resposta de cinco linhas para a dúvida mais frequente."
+  },
+  {
+    "numero": 7,
+    "titulo": "Carrosséis educativos",
+    "o_que_e": "Divida uma explicação em telas com sequência lógica e uma ideia central.",
+    "por_que_funciona": "A organização permite acompanhar um raciocínio por etapas e consultar o material novamente quando necessário.",
+    "como_aplicar": [
+      "Defina uma dúvida específica",
+      "Crie uma abertura, três orientações e um fechamento",
+      "Use letras grandes e revise a leitura no celular"
+    ],
+    "exemplo": "Uma barbearia ensina cuidados entre atendimentos: limpeza, secagem e uso do produto indicado para cada caso.",
+    "dica": "Cada tela deve acrescentar algo; não alongue o carrossel apenas para aumentar seu tamanho.",
+    "tarefa": "Rascunhe cinco telas sobre um cuidado relacionado ao seu produto."
+  },
+  {
+    "numero": 8,
+    "titulo": "Bastidores que revelam cuidado",
+    "o_que_e": "Mostre escolhas e procedimentos que sustentam a entrega ao cliente.",
+    "por_que_funciona": "Detalhes de preparação tornam visível um trabalho que normalmente fica escondido e ajudam a explicar o valor cobrado.",
+    "como_aplicar": [
+      "Escolha uma etapa segura para filmar",
+      "Explique por que ela existe",
+      "Relacione o cuidado ao benefício percebido pelo cliente"
+    ],
+    "exemplo": "Uma confeitaria mostra como identifica encomendas para reduzir trocas na retirada, sem exibir nomes ou telefones.",
+    "dica": "Grave durante a rotina, sem atrapalhar a produção ou expor informações privadas.",
+    "tarefa": "Fotografe uma etapa e escreva uma legenda explicando sua finalidade."
+  },
+  {
+    "numero": 9,
+    "titulo": "Antes e depois com contexto",
+    "o_que_e": "Apresente uma mudança real com condições comparáveis e explicação do serviço.",
+    "por_que_funciona": "A comparação ajuda a entender a entrega, mas precisa de contexto para não criar expectativas irreais.",
+    "como_aplicar": [
+      "Obtenha autorização quando houver pessoas ou dados identificáveis",
+      "Mantenha enquadramento e iluminação semelhantes",
+      "Explique o que foi feito e os limites daquele exemplo"
+    ],
+    "exemplo": "Uma empresa de limpeza mostra um sofá antes e depois, informando o procedimento e que o resultado depende do material e do estado da peça.",
+    "dica": "Evite filtros que alterem o resultado e confira as regras aplicáveis ao seu segmento antes de publicar.",
+    "tarefa": "Selecione um trabalho documentado e escreva uma descrição fiel da mudança."
+  },
+  {
+    "numero": 10,
+    "titulo": "Demonstrações em situações reais",
+    "o_que_e": "Mostre o produto ou serviço no contexto em que o comprador pretende usá-lo.",
+    "por_que_funciona": "O cliente pode compreender dimensões, utilidade e adequação ao próprio cotidiano antes de perguntar pelo preço.",
+    "como_aplicar": [
+      "Escolha uma situação comum de uso",
+      "Mostre detalhes que fotos isoladas não revelam",
+      "Explique para quem aquela opção é adequada"
+    ],
+    "exemplo": "Uma loja de bolsas mostra o que cabe em um modelo e como ele fica no ombro, informando as medidas.",
+    "dica": "Inclua limitações relevantes, como capacidade e cuidados, junto dos benefícios.",
+    "tarefa": "Grave uma demonstração curta respondendo a uma dúvida de uso."
+  },
+  {
+    "numero": 11,
+    "titulo": "Aberturas que dão motivo para assistir",
+    "o_que_e": "Comece o vídeo com uma pergunta ou situação reconhecível para o cliente.",
+    "por_que_funciona": "Uma abertura específica comunica rapidamente a utilidade do conteúdo e ajuda a pessoa a decidir se deseja continuar.",
+    "como_aplicar": [
+      "Escolha uma dor concreta",
+      "Escreva uma primeira frase que antecipe a resposta",
+      "Mostre o assunto logo no início e entregue o que prometeu"
+    ],
+    "exemplo": "Uma floricultura abre: “Seu arranjo murchou rápido? Veja como trocar a água sem danificar as flores.”",
+    "dica": "Evite suspense exagerado e promessas que o vídeo não resolve.",
+    "tarefa": "Escreva três aberturas para um mesmo tema e escolha a mais clara."
+  },
+  {
+    "numero": 12,
+    "titulo": "Processos em vídeo",
+    "o_que_e": "Registre etapas de execução para explicar como uma entrega é construída.",
+    "por_que_funciona": "O processo pode tornar o serviço compreensível e dar elementos para comparar propostas além do preço.",
+    "como_aplicar": [
+      "Escolha início, etapa central e conclusão",
+      "Grave planos curtos com enquadramento semelhante",
+      "Adicione legendas explicando as decisões"
+    ],
+    "exemplo": "Uma marcenaria mostra medição, montagem e acabamento de uma prateleira, com autorização do contratante.",
+    "dica": "Não acelere uma etapa de modo que pareça demonstrar um prazo de entrega irreal.",
+    "tarefa": "Monte um vídeo com três etapas de um trabalho recente."
+  },
+  {
+    "numero": 13,
+    "titulo": "Perguntas frequentes em vídeo",
+    "o_que_e": "Responda uma dúvida de compra com linguagem direta e apoio visual.",
+    "por_que_funciona": "Ouvir e ver a explicação pode facilitar o entendimento de detalhes difíceis de transmitir em uma foto.",
+    "como_aplicar": [
+      "Escolha uma pergunta objetiva",
+      "Escreva a resposta em três pontos",
+      "Grave com áudio compreensível, legendas revisadas e um próximo passo"
+    ],
+    "exemplo": "Uma costureira explica quais medidas precisa para avaliar um ajuste e quando é necessário levar a peça.",
+    "dica": "Se a resposta depender de avaliação, diga isso claramente.",
+    "tarefa": "Grave uma resposta curta e confirme se alguém de fora entende os termos usados."
+  },
+  {
+    "numero": 14,
+    "titulo": "Tendências com pertinência",
+    "o_que_e": "Adapte um formato popular apenas quando ele ajuda a comunicar sua oferta.",
+    "por_que_funciona": "A familiaridade pode facilitar a atenção, mas o conteúdo ainda precisa fazer sentido para o público do negócio.",
+    "como_aplicar": [
+      "Identifique a ideia por trás do formato",
+      "Adapte a situação ao seu segmento",
+      "Confira permissões de áudio e uso comercial antes de publicar"
+    ],
+    "exemplo": "Uma papelaria usa uma sequência visual em alta para mostrar três formas de organizar uma mesa, sem copiar o texto de outro criador.",
+    "dica": "Se o áudio não estiver autorizado para seu uso, prefira voz própria ou uma alternativa liberada.",
+    "tarefa": "Avalie uma tendência e escreva como ela ajuda seu cliente; descarte se não houver resposta."
+  },
+  {
+    "numero": 15,
+    "titulo": "Séries com assunto definido",
+    "o_que_e": "Crie episódios independentes sobre um tema recorrente do público.",
+    "por_que_funciona": "A continuidade facilita planejar a produção e oferece uma expectativa clara para quem acompanha o perfil.",
+    "como_aplicar": [
+      "Escolha um tema com várias dúvidas",
+      "Nomeie a série e numere os episódios",
+      "Publique em uma frequência possível e reúna os conteúdos"
+    ],
+    "exemplo": "Uma loja de plantas cria “Uma planta por vez”, com cuidados, ambientes indicados e sinais de atenção em cada vídeo.",
+    "dica": "Cada episódio deve funcionar para quem não viu os anteriores.",
+    "tarefa": "Planeje os títulos dos três primeiros episódios de uma série."
+  },
+  {
+    "numero": 16,
+    "titulo": "Enquetes para ouvir o público",
+    "o_que_e": "Use perguntas com opções simples para conhecer preferências e dificuldades.",
+    "por_que_funciona": "As respostas geram pistas para a comunicação; representam os participantes, não uma pesquisa de todo o mercado.",
+    "como_aplicar": [
+      "Escolha uma decisão que deseja entender",
+      "Ofereça opções claras e neutras",
+      "Registre as respostas e devolva uma conclusão ao público"
+    ],
+    "exemplo": "Uma cafeteria pergunta se os seguidores costumam buscar lanche antes do trabalho ou no fim da tarde.",
+    "dica": "Não trate votos como pedidos confirmados ou demanda garantida.",
+    "tarefa": "Publique uma enquete e anote uma hipótese que ela ajuda a investigar."
+  },
+  {
+    "numero": 17,
+    "titulo": "Caixas de perguntas com foco",
+    "o_que_e": "Convide o público a perguntar sobre um assunto delimitado.",
+    "por_que_funciona": "Um tema concreto reduz a dificuldade de formular perguntas e revela pontos que merecem explicações melhores.",
+    "como_aplicar": [
+      "Defina o tema do dia",
+      "Dê um exemplo de pergunta para iniciar",
+      "Responda sem identificar quem enviou e guarde dúvidas recorrentes"
+    ],
+    "exemplo": "Um salão abre perguntas sobre preparação para coloração e orienta a avaliação individual quando necessário.",
+    "dica": "Se houver poucas respostas, use dúvidas reais já recebidas, sem fingir que vieram da caixa.",
+    "tarefa": "Abra uma rodada de perguntas sobre seu serviço mais procurado."
+  },
+  {
+    "numero": 18,
+    "titulo": "Rotina que aproxima",
+    "o_que_e": "Compartilhe pequenos momentos de trabalho que ajudem a entender como o negócio funciona.",
+    "por_que_funciona": "A presença cotidiana oferece contexto e familiaridade, desde que cada publicação tenha utilidade para quem vê.",
+    "como_aplicar": [
+      "Escolha um momento de abertura, produção ou fechamento",
+      "Explique a relação com o atendimento",
+      "Mostre pessoas somente com autorização"
+    ],
+    "exemplo": "Uma oficina de bicicletas mostra a checagem dos materiais antes dos reparos e informa como funciona a avaliação.",
+    "dica": "Evite transformar toda a rotina em obrigação de filmagem.",
+    "tarefa": "Publique um momento da rotina acompanhado de uma explicação útil."
+  },
+  {
+    "numero": 19,
+    "titulo": "Disponibilidade e novidades reais",
+    "o_que_e": "Informe vagas, estoque ou mudanças com dados atualizados e um caminho para consultar detalhes.",
+    "por_que_funciona": "A informação oportuna ajuda quem já considera comprar a verificar se a oferta cabe em seu prazo.",
+    "como_aplicar": [
+      "Confira a disponibilidade antes de publicar",
+      "Informe data, opção e condições relevantes",
+      "Atualize ou retire o aviso quando a situação mudar"
+    ],
+    "exemplo": "Uma manicure divulga dois horários efetivamente livres na quinta-feira e orienta a confirmar pelo atendimento.",
+    "dica": "Não use “últimas vagas” se não houver controle real da agenda.",
+    "tarefa": "Prepare um aviso de disponibilidade com data e orientação de confirmação."
+  },
+  {
+    "numero": 20,
+    "titulo": "Sequências de stories com direção",
+    "o_que_e": "Conduza o leitor de uma situação reconhecível até uma ação simples.",
+    "por_que_funciona": "Uma sequência com começo e fechamento conecta a necessidade à solução sem depender de publicações isoladas.",
+    "como_aplicar": [
+      "Abra com uma dúvida",
+      "Mostre um exemplo ou demonstração",
+      "Explique a oferta e finalize com uma única chamada"
+    ],
+    "exemplo": "Uma marmitaria apresenta o problema de organizar o almoço, mostra opções da semana e orienta a consultar entrega no bairro.",
+    "dica": "A ação precisa ser possível: teste o link ou indique o canal exato.",
+    "tarefa": "Rascunhe quatro stories com problema, demonstração, oferta e convite."
+  },
+  {
+    "numero": 21,
+    "titulo": "Avaliações verdadeiras",
+    "o_que_e": "Compartilhe depoimentos autênticos com autorização e contexto.",
+    "por_que_funciona": "A experiência de outra pessoa pode reduzir incertezas, embora não represente todos os clientes nem garanta o mesmo resultado.",
+    "como_aplicar": [
+      "Peça autorização para o uso pretendido",
+      "Preserve o sentido original da avaliação",
+      "Oculte dados pessoais desnecessários e informe qual serviço foi avaliado"
+    ],
+    "exemplo": "Uma loja publica um relato sobre atendimento na troca de tamanho, após aprovação do cliente.",
+    "dica": "Não fabrique depoimentos nem ofereça benefício condicionado a elogio.",
+    "tarefa": "Separe uma avaliação real e solicite autorização antes de divulgá-la."
+  },
+  {
+    "numero": 22,
+    "titulo": "Portfólio com explicação",
+    "o_que_e": "Apresente trabalhos realizados indicando necessidade, solução e limites da entrega.",
+    "por_que_funciona": "O visitante consegue avaliar a adequação do serviço e reconhecer situações semelhantes à sua.",
+    "como_aplicar": [
+      "Escolha um trabalho representativo",
+      "Explique o pedido e sua contribuição",
+      "Use imagens autorizadas e descreva o resultado observável"
+    ],
+    "exemplo": "Uma designer mostra um cardápio que organizou por categorias para facilitar a consulta, sem atribuir aumento de vendas não medido.",
+    "dica": "Diferencie trabalho contratado de projeto demonstrativo.",
+    "tarefa": "Escreva um pequeno estudo de caso com problema, execução e entrega."
+  },
+  {
+    "numero": 23,
+    "titulo": "História da empresa",
+    "o_que_e": "Conte decisões e experiências que expliquem por que o negócio existe.",
+    "por_que_funciona": "Uma trajetória concreta oferece contexto para os valores da marca e cria pontos de identificação com o público.",
+    "como_aplicar": [
+      "Escolha um acontecimento relevante",
+      "Explique o aprendizado e a mudança prática",
+      "Conecte a história à experiência atual do cliente"
+    ],
+    "exemplo": "Uma costureira conta como começou com pequenos ajustes e passou a organizar provas com horário marcado.",
+    "dica": "Evite superlativos sem evidência, como “a melhor da cidade”.",
+    "tarefa": "Escreva uma história curta com situação, decisão e consequência."
+  },
+  {
+    "numero": 24,
+    "titulo": "Conhecimento que ajuda a escolher",
+    "o_que_e": "Ensine critérios para avaliar uma solução do seu segmento.",
+    "por_que_funciona": "Orientações específicas demonstram domínio do assunto e permitem uma escolha mais informada.",
+    "como_aplicar": [
+      "Escolha duas opções que geram confusão",
+      "Compare usos, cuidados e limitações",
+      "Explique quando vale solicitar uma avaliação individual"
+    ],
+    "exemplo": "Uma gráfica compara papéis para convites, mostrando textura e legibilidade em amostras reais.",
+    "dica": "Explique termos técnicos na primeira vez que aparecerem.",
+    "tarefa": "Produza um comparativo simples entre duas opções do seu catálogo."
+  },
+  {
+    "numero": 25,
+    "titulo": "Objeções respondidas com clareza",
+    "o_que_e": "Transforme preocupações legítimas de compra em conteúdo informativo.",
+    "por_que_funciona": "Quando o cliente entende prazos, etapas e condições, consegue avaliar melhor se a oferta faz sentido.",
+    "como_aplicar": [
+      "Registre dúvidas que interrompem conversas",
+      "Escolha uma preocupação por post",
+      "Responda com informação verificável e reconheça limites"
+    ],
+    "exemplo": "Uma lavanderia explica por que o prazo depende do tecido e da avaliação da peça, em vez de prometer remoção de qualquer mancha.",
+    "dica": "Responda à preocupação sem desqualificar quem perguntou.",
+    "tarefa": "Escreva uma publicação esclarecendo o que está incluído no seu preço."
+  },
+  {
+    "numero": 26,
+    "titulo": "Localização que orienta",
+    "o_que_e": "Associe conteúdo ao lugar real onde o negócio atende.",
+    "por_que_funciona": "O contexto geográfico ajuda a pessoa a reconhecer a proximidade e entender se pode contratar.",
+    "como_aplicar": [
+      "Confirme endereço ou área atendida",
+      "Inclua localização quando o recurso estiver disponível",
+      "Complemente a legenda com bairro e referência útil"
+    ],
+    "exemplo": "Uma padaria informa que fica perto da praça do bairro e explica a entrada acessível, se houver.",
+    "dica": "Prestadores que trabalham em casa podem divulgar a região sem expor endereço particular.",
+    "tarefa": "Revise três posts e confira se a região de atendimento está clara."
+  },
+  {
+    "numero": 27,
+    "titulo": "Conteúdo ligado à região",
+    "o_que_e": "Crie publicações sobre necessidades e hábitos do território atendido.",
+    "por_que_funciona": "A relevância local conecta a oferta ao cotidiano de quem pode efetivamente comprar.",
+    "como_aplicar": [
+      "Identifique uma situação recorrente do bairro",
+      "Relacione seu serviço sem forçar uma venda",
+      "Inclua orientações corretas e confirme informações antes de publicar"
+    ],
+    "exemplo": "Uma loja de capas de chuva apresenta opções para quem faz o trajeto a pé até o terminal local.",
+    "dica": "Não use acontecimentos sensíveis como pretexto oportunista para divulgação.",
+    "tarefa": "Planeje um post que ajude alguém da sua região em uma situação comum."
+  },
+  {
+    "numero": 28,
+    "titulo": "Parcerias complementares",
+    "o_que_e": "Planeje uma ação conjunta com um negócio que atende público semelhante sem oferecer a mesma solução.",
+    "por_que_funciona": "A colaboração cria contexto para apresentar serviços úteis a pessoas que já confiam no parceiro.",
+    "como_aplicar": [
+      "Escolha um parceiro coerente",
+      "Defina entrega, responsabilidades e condições por escrito",
+      "Publique uma orientação conjunta e avalie os contatos gerados"
+    ],
+    "exemplo": "Uma confeitaria e uma decoradora montam um guia de planejamento de festas com os prazos de cada serviço.",
+    "dica": "Não troque listas de clientes; deixe o público escolher entrar em contato.",
+    "tarefa": "Liste três parceiros possíveis e proponha uma ação com benefício claro para o público."
+  },
+  {
+    "numero": 29,
+    "titulo": "Presença em iniciativas locais",
+    "o_que_e": "Participe de atividades da comunidade em que seu negócio possa contribuir.",
+    "por_que_funciona": "O contato contextual pode gerar reconhecimento e relacionamentos que continuam no digital.",
+    "como_aplicar": [
+      "Escolha uma iniciativa compatível com seu público",
+      "Combine participação e permissões com a organização",
+      "Compartilhe informações úteis e registre contatos apenas com concordância"
+    ],
+    "exemplo": "Uma papelaria participa de uma oficina de organização de estudos e publica o material de apoio no perfil.",
+    "dica": "Peça autorização antes de divulgar imagens de participantes.",
+    "tarefa": "Identifique uma iniciativa e descreva o que você pode oferecer a ela."
+  },
+  {
+    "numero": 30,
+    "titulo": "Campanhas para a região atendida",
+    "o_que_e": "Planeje uma mensagem e uma oferta adequadas a uma área real de atendimento.",
+    "por_que_funciona": "A delimitação reduz contatos fora da operação e permite avaliar a resposta de um público relevante.",
+    "como_aplicar": [
+      "Defina bairros e capacidade de entrega",
+      "Crie conteúdo com condições locais claras",
+      "Se usar anúncio, estabeleça limite de gasto e acompanhe conversas qualificadas"
+    ],
+    "exemplo": "Um restaurante divulga entrega em bairros específicos e mantém o mesmo recorte na campanha paga, se optar por anunciar.",
+    "dica": "Anúncios são opcionais e não corrigem um atendimento desorganizado.",
+    "tarefa": "Planeje uma campanha local com público, mensagem, prazo e critério de avaliação."
+  },
+  {
+    "numero": 31,
+    "titulo": "Comentários que viram conversa",
+    "o_que_e": "Responda comentários considerando a dúvida e o contexto de cada pessoa.",
+    "por_que_funciona": "Uma resposta útil atende quem perguntou e pode esclarecer outros visitantes com a mesma questão.",
+    "como_aplicar": [
+      "Responda o ponto principal publicamente",
+      "Faça uma pergunta relevante se faltar informação",
+      "Leve dados pessoais e negociação para canal privado"
+    ],
+    "exemplo": "Uma loja responde sobre tamanhos e convida a pessoa a enviar medidas no atendimento, sem pedir dados no comentário.",
+    "dica": "Não cole a mesma resposta genérica em toda interação.",
+    "tarefa": "Revise comentários recentes e responda com informação específica."
+  },
+  {
+    "numero": 32,
+    "titulo": "Perguntas que geram troca",
+    "o_que_e": "Convide o público a compartilhar experiências relacionadas ao uso do produto.",
+    "por_que_funciona": "As respostas oferecem linguagem e situações que podem orientar conteúdo e melhorias na oferta.",
+    "como_aplicar": [
+      "Escolha uma questão fácil de responder",
+      "Explique por que deseja ouvir",
+      "Acompanhe as respostas e devolva um aprendizado"
+    ],
+    "exemplo": "Uma loja de organização pergunta qual espaço da casa mais dificulta encontrar objetos no dia a dia.",
+    "dica": "Evite pedidos vazios de comentários que não tenham relação com o assunto.",
+    "tarefa": "Encerre um post com uma pergunta concreta sobre a rotina do cliente."
+  },
+  {
+    "numero": 33,
+    "titulo": "Interação com utilidade",
+    "o_que_e": "Crie uma pequena escolha, exercício ou desafio ligado a uma necessidade real.",
+    "por_que_funciona": "Participar ajuda o público a aplicar uma ideia e oferece sinais sobre interesses e dificuldades.",
+    "como_aplicar": [
+      "Defina o aprendizado",
+      "Crie opções ou uma tarefa simples",
+      "Publique a explicação após a participação"
+    ],
+    "exemplo": "Uma floricultura mostra dois ambientes e pergunta qual recebe luz indireta, depois explica a escolha de plantas.",
+    "dica": "Não apresente jogos educativos como avaliação técnica individual.",
+    "tarefa": "Monte uma interação com duas opções e uma resposta explicativa."
+  },
+  {
+    "numero": 34,
+    "titulo": "Conteúdo espontâneo autorizado",
+    "o_que_e": "Valorize registros feitos por clientes que mostram o produto em uso.",
+    "por_que_funciona": "O contexto real amplia a variedade de demonstrações e reconhece a participação do cliente.",
+    "como_aplicar": [
+      "Identifique um registro pertinente",
+      "Peça autorização específica para republicar",
+      "Mantenha o crédito combinado e não altere o sentido"
+    ],
+    "exemplo": "Uma loja de cerâmica compartilha a foto de uma mesa montada por uma cliente, com a autorização dela.",
+    "dica": "Uma marcação no perfil não deve ser tratada automaticamente como permissão para qualquer uso.",
+    "tarefa": "Prepare uma mensagem curta solicitando autorização para uma republicação."
+  },
+  {
+    "numero": 35,
+    "titulo": "Comunidade em torno de um interesse",
+    "o_que_e": "Crie encontros e conversas recorrentes sobre um assunto que una clientes e marca.",
+    "por_que_funciona": "A troca entre participantes dá motivo para acompanhar o negócio além da oferta do dia.",
+    "como_aplicar": [
+      "Escolha um interesse central",
+      "Defina uma atividade recorrente viável",
+      "Estabeleça limites de convivência e convide a participação voluntária"
+    ],
+    "exemplo": "Uma loja de livros promove uma conversa mensal sobre leituras e reúne sugestões enviadas pelo público.",
+    "dica": "Comece no próprio perfil; não abra um grupo que você não conseguirá moderar.",
+    "tarefa": "Defina tema, frequência e regras de uma atividade de comunidade."
+  },
+  {
+    "numero": 36,
+    "titulo": "Ofertas com benefício compreensível",
+    "o_que_e": "Apresente o que a pessoa recebe, para quem serve e quais condições se aplicam.",
+    "por_que_funciona": "Uma oferta concreta facilita comparar adequação e custo sem depender de adjetivos ou pressão.",
+    "como_aplicar": [
+      "Descreva os itens incluídos",
+      "Informe preço e condições relevantes quando definidos",
+      "Explique como contratar e confirme capacidade de entrega"
+    ],
+    "exemplo": "Um salão oferece corte com finalização e informa quais procedimentos não estão incluídos.",
+    "dica": "Use urgência apenas quando o prazo ou limite for real.",
+    "tarefa": "Reescreva uma oferta com entrega, condições e próximo passo."
+  },
+  {
+    "numero": 37,
+    "titulo": "Combos que fazem sentido",
+    "o_que_e": "Agrupe produtos ou serviços que atendam uma necessidade conjunta.",
+    "por_que_funciona": "O conjunto pode simplificar a escolha, desde que haja utilidade real e preço transparente.",
+    "como_aplicar": [
+      "Identifique itens usados juntos",
+      "Calcule custos e capacidade de atendimento",
+      "Apresente os componentes e a condição do conjunto"
+    ],
+    "exemplo": "Uma cafeteria combina bebida e lanche para o café da manhã, informando opções, preço e disponibilidade.",
+    "dica": "Não chame de economia sem comparar valores reais e atuais.",
+    "tarefa": "Desenhe um combo e verifique se ele continua viável para sua operação."
+  },
+  {
+    "numero": 38,
+    "titulo": "Campanhas sazonais planejadas",
+    "o_que_e": "Prepare uma ação para datas que tenham relação com o comportamento do seu público.",
+    "por_que_funciona": "Antecedência permite organizar estoque, produção e comunicação em torno de uma ocasião concreta.",
+    "como_aplicar": [
+      "Escolha uma data relevante",
+      "Defina prazo de pedido e limite operacional",
+      "Planeje apresentação, esclarecimentos e fechamento da campanha"
+    ],
+    "exemplo": "Uma confeitaria divulga encomendas para uma data comemorativa com retirada e quantidade máxima baseadas na produção.",
+    "dica": "Não participe de toda data do calendário; priorize as que combinam com sua oferta.",
+    "tarefa": "Escolha uma ocasião e trabalhe de trás para frente até a data de início da divulgação."
+  },
+  {
+    "numero": 39,
+    "titulo": "Lançamentos com preparação",
+    "o_que_e": "Apresente uma novidade com informações progressivas até a abertura dos pedidos.",
+    "por_que_funciona": "A preparação oferece tempo para entender o produto e reunir dúvidas antes da decisão.",
+    "como_aplicar": [
+      "Mostre a necessidade atendida",
+      "Explique funcionamento, preço e disponibilidade",
+      "Abra pedidos somente quando conseguir cumprir a entrega"
+    ],
+    "exemplo": "Uma artesã apresenta uma coleção, mostra medidas e materiais e depois informa o início das encomendas.",
+    "dica": "Não use imagens de itens que ainda não pode entregar como se estivessem em estoque.",
+    "tarefa": "Planeje três publicações: apresentação, demonstração e abertura de pedidos."
+  },
+  {
+    "numero": 40,
+    "titulo": "Chamadas para uma ação específica",
+    "o_que_e": "Diga exatamente qual é o próximo passo relacionado ao conteúdo.",
+    "por_que_funciona": "Um convite claro reduz a dúvida entre continuar lendo, pedir informação ou iniciar uma compra.",
+    "como_aplicar": [
+      "Escolha uma ação por publicação",
+      "Explique o que a pessoa recebe ao agir",
+      "Confira se o canal está pronto para atender"
+    ],
+    "exemplo": "Uma loja escreve: “Envie o modelo e a numeração pelo direct para consultar disponibilidade.”",
+    "dica": "Troque “saiba mais” por uma orientação que faça sentido naquele momento.",
+    "tarefa": "Revise a chamada de três posts e elimine instruções concorrentes."
+  },
+  {
+    "numero": 41,
+    "titulo": "Encaminhamento para atendimento",
+    "o_que_e": "Defina um percurso claro para quem demonstra interesse.",
+    "por_que_funciona": "Uma passagem organizada evita que a pessoa repita informações ou fique sem saber onde continuar.",
+    "como_aplicar": [
+      "Escolha o canal adequado",
+      "Peça somente dados necessários à primeira orientação",
+      "Informe o horário habitual de resposta e acompanhe a entrada"
+    ],
+    "exemplo": "Uma empresa de instalação orienta o interessado a enviar bairro, tipo de ambiente e necessidade para iniciar uma avaliação.",
+    "dica": "Se precisar transferir de canal, explique o motivo e preserve o contexto.",
+    "tarefa": "Teste seu atendimento desde o post até a primeira resposta."
+  },
+  {
+    "numero": 42,
+    "titulo": "Catálogo que facilita decidir",
+    "o_que_e": "Apresente produtos e serviços com informações comparáveis e atualizadas.",
+    "por_que_funciona": "Detalhes objetivos permitem avaliar a opção antes do contato e reduzem perguntas repetidas.",
+    "como_aplicar": [
+      "Defina um padrão com nome, uso, medidas ou escopo",
+      "Inclua preço ou explique como o orçamento é calculado",
+      "Informe prazo, disponibilidade e condições relevantes"
+    ],
+    "exemplo": "Uma loja de roupas apresenta tecido, medidas da peça, tamanhos e como consultar estoque.",
+    "dica": "Em serviços personalizados, explique os fatores do orçamento em vez de inventar um preço único.",
+    "tarefa": "Atualize a apresentação de uma oferta usando o mesmo padrão de informações."
+  },
+  {
+    "numero": 43,
+    "titulo": "Dúvidas antes da compra",
+    "o_que_e": "Antecipe perguntas sobre entrega, contratação, uso e suporte.",
+    "por_que_funciona": "O cliente pode compreender o processo e decidir com menos incerteza sobre o que acontece depois do pagamento.",
+    "como_aplicar": [
+      "Reúna perguntas dos últimos atendimentos",
+      "Organize respostas por etapa da compra",
+      "Publique um guia e mantenha-o atualizado"
+    ],
+    "exemplo": "Uma loja explica como informa o prazo de envio, acompanha o pedido e recebe solicitações de atendimento.",
+    "dica": "Não prometa condições que sua operação não consegue cumprir.",
+    "tarefa": "Crie um guia com cinco respostas essenciais para quem vai comprar pela primeira vez."
+  },
+  {
+    "numero": 44,
+    "titulo": "Mensagens com contexto",
+    "o_que_e": "Adapte a resposta à necessidade apresentada pela pessoa.",
+    "por_que_funciona": "O reconhecimento do pedido ajuda a avançar a conversa e evita que o cliente se sinta atendido por um texto indiferente.",
+    "como_aplicar": [
+      "Leia o histórico antes de responder",
+      "Confirme a necessidade em uma frase",
+      "Apresente a opção pertinente e faça uma pergunta de cada vez"
+    ],
+    "exemplo": "Uma decoradora responde: “Você procura uma mesa para dez pessoas no sábado. Qual é o espaço disponível?”",
+    "dica": "Modelos podem economizar tempo, mas precisam ser revisados antes do envio.",
+    "tarefa": "Escreva três modelos editáveis para situações frequentes do seu atendimento."
+  },
+  {
+    "numero": 45,
+    "titulo": "Acompanhamento respeitoso",
+    "o_que_e": "Retome uma conversa quando houver contexto e concordância, permitindo que a pessoa encerre o contato.",
+    "por_que_funciona": "Uma lembrança combinada pode ajudar quem adiou a decisão sem criar pressão desnecessária.",
+    "como_aplicar": [
+      "Pergunte se pode retomar e em qual data",
+      "Registre necessidade e combinação sem dados excessivos",
+      "Faça a retomada acordada e encerre se não houver interesse"
+    ],
+    "exemplo": "Uma prestadora combina retornar após o cliente confirmar uma data e envia apenas a informação que ficou pendente.",
+    "dica": "Não insista após recusa nem adicione contatos a listas sem concordância.",
+    "tarefa": "Crie um registro simples com pedido, próxima ação combinada e situação."
+  },
+  {
+    "numero": 46,
+    "titulo": "Métricas ligadas ao objetivo",
+    "o_que_e": "Acompanhe sinais de descoberta, interesse e resultado comercial em um mesmo período.",
+    "por_que_funciona": "Cada número mostra uma parte do percurso; olhar o conjunto ajuda a localizar onde investigar dificuldades.",
+    "como_aplicar": [
+      "Escolha uma janela de análise",
+      "Anote alcance, visitas, cliques e conversas disponíveis",
+      "Complete com orçamentos e vendas identificáveis no atendimento"
+    ],
+    "exemplo": "Uma confeitaria observa visitas ao perfil e pedidos recebidos na mesma semana para avaliar se a apresentação dos produtos está clara.",
+    "dica": "Confira as definições no próprio painel; nomes e disponibilidade das métricas podem mudar.",
+    "tarefa": "Preencha a primeira coluna do quadro de resultados deste guia."
+  },
+  {
+    "numero": 47,
+    "titulo": "Conteúdo que atrai o público certo",
+    "o_que_e": "Observe quais publicações geram interesse de pessoas com necessidade compatível com a oferta.",
+    "por_que_funciona": "Alcance amplo pode ter pouco valor comercial se vier de fora da região ou sem relação com o serviço.",
+    "como_aplicar": [
+      "Compare conteúdos por tema e objetivo",
+      "Registre dúvidas e contatos pertinentes que eles geraram",
+      "Busque padrões em vários posts antes de concluir"
+    ],
+    "exemplo": "Uma oficina percebe que orientações sobre revisão trazem perguntas sobre orçamento, enquanto memes atraem conversas sem relação com reparos.",
+    "dica": "Não conclua que um formato é ruim com base em uma única publicação.",
+    "tarefa": "Selecione três posts e anote que tipo de interessado cada um atraiu."
+  },
+  {
+    "numero": 48,
+    "titulo": "Testes com uma mudança por vez",
+    "o_que_e": "Compare abordagens para aprender o que ajuda sua comunicação.",
+    "por_que_funciona": "Alterar poucos elementos facilita formular uma explicação, embora a comparação orgânica não prove causa e efeito.",
+    "como_aplicar": [
+      "Defina uma hipótese e um objetivo",
+      "Mude uma variável, como abertura ou formato",
+      "Compare em condições próximas e repita antes de decidir"
+    ],
+    "exemplo": "Uma loja testa demonstração em vídeo e sequência de fotos para o mesmo tipo de produto, observando perguntas pertinentes.",
+    "dica": "Registre fatores externos, como oferta diferente, feriado ou mídia paga.",
+    "tarefa": "Planeje um teste com hipótese, variável, período e indicador."
+  },
+  {
+    "numero": 49,
+    "titulo": "Calendário que cabe na rotina",
+    "o_que_e": "Distribua temas e tarefas de produção de acordo com o tempo disponível.",
+    "por_que_funciona": "Uma frequência viável ajuda a manter continuidade e reduz decisões de última hora que atrapalham o negócio.",
+    "como_aplicar": [
+      "Reserve um bloco semanal de produção",
+      "Equilibre dúvidas, demonstrações e ofertas",
+      "Deixe espaço para atualizações e ajuste a frequência ao esforço real"
+    ],
+    "exemplo": "Uma empreendedora prepara duas publicações por semana e registra stories úteis quando surgem na operação.",
+    "dica": "Reaproveite um tema em formatos diferentes, acrescentando contexto em cada uso.",
+    "tarefa": "Monte uma semana com tema, formato, objetivo, responsável e data."
+  },
+  {
+    "numero": 50,
+    "titulo": "Melhoria orientada por observação",
+    "o_que_e": "Transforme o aprendizado do período em uma alteração concreta para o ciclo seguinte.",
+    "por_que_funciona": "Registrar decisões evita repetir ações por hábito e ajuda a concentrar energia em oportunidades plausíveis.",
+    "como_aplicar": [
+      "Revise objetivo e indicadores",
+      "Escolha um ponto do percurso para melhorar",
+      "Execute uma mudança e marque a próxima revisão"
+    ],
+    "exemplo": "Um restaurante recebe muitas perguntas sobre área de entrega e decide tornar os bairros mais visíveis no perfil e nos posts.",
+    "dica": "Mantenha, ajuste ou encerre ações com base em evidências e capacidade operacional.",
+    "tarefa": "Escreva uma decisão para o próximo mês e o sinal que você vai observar."
+  }
+]

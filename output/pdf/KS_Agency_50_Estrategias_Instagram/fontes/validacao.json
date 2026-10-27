@@ -1,0 +1,9 @@
+{
+  "paginas": 67,
+  "estrategias": 50,
+  "campos_obrigatorios_por_estrategia": 6,
+  "links_no_sumario": 20,
+  "texto_selecionavel": true,
+  "formato": "A4 vertical",
+  "limite_inferior_texto": 89.72979999999995
+}

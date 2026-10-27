@@ -1,0 +1,176 @@
+{
+  "plano_30_dias": [
+    "Defina público, oferta principal e região atendida.",
+    "Revise nome, usuário e foto do perfil.",
+    "Reescreva a bio com uma ação clara.",
+    "Teste o link principal até a tela de atendimento.",
+    "Organize um destaque sobre como comprar.",
+    "Escolha conteúdos de apresentação para destacar.",
+    "Registre os indicadores iniciais disponíveis.",
+    "Liste cinco dúvidas recebidas no atendimento.",
+    "Escreva um post respondendo à dúvida principal.",
+    "Registre uma etapa dos bastidores com segurança.",
+    "Prepare uma demonstração de produto ou serviço.",
+    "Grave uma resposta curta com legendas revisadas.",
+    "Publique uma enquete com propósito definido.",
+    "Revise respostas e anote uma hipótese de conteúdo.",
+    "Organize o que será publicado na próxima semana.",
+    "Monte um carrossel educativo de cinco telas.",
+    "Peça autorização para divulgar uma avaliação real.",
+    "Apresente um trabalho com contexto e limites.",
+    "Publique uma orientação sobre a região atendida.",
+    "Liste parceiros locais e desenhe uma colaboração.",
+    "Reserve uma pausa para revisar esforço e agenda.",
+    "Reescreva uma oferta com condições transparentes.",
+    "Atualize uma ficha de produto ou serviço.",
+    "Prepare três respostas adaptáveis para o atendimento.",
+    "Revise interessados e faça só as retomadas combinadas.",
+    "Planeje um teste com uma variável e um indicador.",
+    "Produza uma sequência de stories com uma ação final.",
+    "Preencha o quadro de resultados do período.",
+    "Compare sinais e escolha um ajuste prioritário.",
+    "Monte o calendário do próximo mês com o que aprendeu."
+  ],
+  "ideias_de_posts": [
+    {
+      "tema": "A dúvida que mais aparece",
+      "formato": "Carrossel",
+      "objetivo": "Esclarecer",
+      "gancho": "Você também tem esta dúvida?",
+      "cta": "Salve para consultar."
+    },
+    {
+      "tema": "Um produto em uso",
+      "formato": "Vídeo curto",
+      "objetivo": "Demonstrar",
+      "gancho": "Veja como este item funciona na rotina.",
+      "cta": "Envie sua dúvida sobre o uso."
+    },
+    {
+      "tema": "O que está incluído",
+      "formato": "Carrossel",
+      "objetivo": "Apresentar escopo",
+      "gancho": "O que você recebe ao contratar?",
+      "cta": "Consulte as opções pelo contato do perfil."
+    },
+    {
+      "tema": "Um cuidado de bastidor",
+      "formato": "Stories",
+      "objetivo": "Gerar confiança",
+      "gancho": "Este detalhe acontece antes da entrega.",
+      "cta": "Responda se quer conhecer outra etapa."
+    },
+    {
+      "tema": "Como escolher entre duas opções",
+      "formato": "Carrossel",
+      "objetivo": "Apoiar decisão",
+      "gancho": "Qual opção combina com sua necessidade?",
+      "cta": "Conte qual é seu uso previsto."
+    },
+    {
+      "tema": "Como chegar ou consultar a região",
+      "formato": "Foto e legenda",
+      "objetivo": "Orientar",
+      "gancho": "Atendemos sua região? Veja como confirmar.",
+      "cta": "Informe seu bairro no atendimento."
+    },
+    {
+      "tema": "Pergunta sobre preferência",
+      "formato": "Enquete",
+      "objetivo": "Ouvir",
+      "gancho": "Qual destas situações acontece com você?",
+      "cta": "Vote na opção mais próxima."
+    },
+    {
+      "tema": "História de uma decisão",
+      "formato": "Foto e legenda",
+      "objetivo": "Aproximar",
+      "gancho": "Mudamos este processo por um motivo.",
+      "cta": "Compartilhe sua experiência nos comentários."
+    },
+    {
+      "tema": "Avaliação real autorizada",
+      "formato": "Post estático",
+      "objetivo": "Gerar confiança",
+      "gancho": "Uma experiência de quem já comprou.",
+      "cta": "Veja como funciona nosso atendimento."
+    },
+    {
+      "tema": "Três cuidados de conservação",
+      "formato": "Carrossel",
+      "objetivo": "Educar",
+      "gancho": "Como cuidar do seu produto depois da compra.",
+      "cta": "Salve estas orientações."
+    },
+    {
+      "tema": "Uma etapa do serviço",
+      "formato": "Vídeo curto",
+      "objetivo": "Explicar processo",
+      "gancho": "O que acontece nesta parte do trabalho?",
+      "cta": "Envie uma dúvida sobre a etapa."
+    },
+    {
+      "tema": "Dúvida sobre prazo",
+      "formato": "Stories",
+      "objetivo": "Reduzir incerteza",
+      "gancho": "De que depende o prazo da sua encomenda?",
+      "cta": "Consulte o prazo para sua necessidade."
+    },
+    {
+      "tema": "Um erro frequente de escolha",
+      "formato": "Carrossel",
+      "objetivo": "Orientar",
+      "gancho": "Antes de escolher, confira este detalhe.",
+      "cta": "Envie o post a quem está pesquisando."
+    },
+    {
+      "tema": "Oferta com condições claras",
+      "formato": "Post estático",
+      "objetivo": "Apresentar oferta",
+      "gancho": "Uma opção para quem precisa de [necessidade].",
+      "cta": "Consulte a disponibilidade atual."
+    },
+    {
+      "tema": "Checklist antes de contratar",
+      "formato": "Carrossel",
+      "objetivo": "Preparar contato",
+      "gancho": "O que separar antes de pedir um orçamento.",
+      "cta": "Salve e envie as informações pelo contato."
+    },
+    {
+      "tema": "Apresentação de quem atende",
+      "formato": "Foto e legenda",
+      "objetivo": "Humanizar",
+      "gancho": "Quem conversa com você por aqui?",
+      "cta": "Conte o que gostaria de saber sobre o serviço."
+    },
+    {
+      "tema": "Novidade com demonstração",
+      "formato": "Reel",
+      "objetivo": "Apresentar lançamento",
+      "gancho": "Veja os detalhes da nova opção.",
+      "cta": "Peça medidas e condições no atendimento."
+    },
+    {
+      "tema": "Uma parceria útil",
+      "formato": "Publicação conjunta",
+      "objetivo": "Ampliar descoberta",
+      "gancho": "Duas soluções para organizar a mesma ocasião.",
+      "cta": "Conheça os serviços de cada participante."
+    },
+    {
+      "tema": "Antes e depois contextualizado",
+      "formato": "Carrossel",
+      "objetivo": "Mostrar trabalho",
+      "gancho": "O que mudou neste projeto e por quê?",
+      "cta": "Consulte a avaliação para o seu caso."
+    },
+    {
+      "tema": "Resumo de dúvidas da semana",
+      "formato": "Stories",
+      "objetivo": "Relacionar",
+      "gancho": "Reunimos respostas que podem ajudar você.",
+      "cta": "Envie uma pergunta para a próxima edição."
+    }
+  ]
+}
